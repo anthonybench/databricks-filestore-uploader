@@ -8,7 +8,7 @@ This tool uploads specified source directories to specified paths in the *<abbr 
 
 Create a file adjacent to `main.py` called `input.yml`, and copy the following:
 ```yml
-host : https://dbc-641926f8-a71f.cloud.databricks.com
+host : <workspace-url>
 token: <user-access-token>
 
 # THIS TOOL CREATES OR OVERWRITES THE TARGET FOLDER!
